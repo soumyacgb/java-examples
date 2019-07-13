@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
  
 public class ArrayListIterator {
-	
+	//xyz
 	//Program: How to read all elements in ArrayList by using iterator?
 	//Here we can see example for reading all elements from ArrayList by using Iterator. Also you can iterate through the ArrayList based on index too.
  
